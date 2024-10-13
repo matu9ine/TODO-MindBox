@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo-Mindbox/static/css/main.65716c0d.css",
+    "main.js": "/Todo-Mindbox/static/js/main.5b6fe5c2.js",
+    "index.html": "/Todo-Mindbox/index.html",
+    "main.65716c0d.css.map": "/Todo-Mindbox/static/css/main.65716c0d.css.map",
+    "main.5b6fe5c2.js.map": "/Todo-Mindbox/static/js/main.5b6fe5c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65716c0d.css",
+    "static/js/main.5b6fe5c2.js"
+  ]
+}
